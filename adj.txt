@@ -1,0 +1,8 @@
+3
+vodka
+wine
+beer
+2
+wine vodka
+beer wine
+-1
